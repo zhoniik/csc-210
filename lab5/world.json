@@ -1,0 +1,9 @@
+{
+  "width": 3,
+  "height": 3,
+  "water": 6,
+  "temperature": 21,
+  "nutrients": 6,
+  "plants": ["oak","ivy","moss"],
+  "animals": ["bird:sparrow","mammal:mouse","fish:carp"]
+}
