@@ -1,0 +1,46 @@
+-Xdoclint:none
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'/home/matthewscott/Development/Teaching/CSC210/Fall-2025/labs/lab-06/examples/Maven/doc-demo/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/matthewscott/Development/Teaching/CSC210/Fall-2025/labs/lab-06/examples/Maven/doc-demo/target/site-webapp/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Documentation Demo 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Documentation Demo 1.0-SNAPSHOT API'
+com.example.docs
+/home/matthewscott/Development/Teaching/CSC210/Fall-2025/labs/lab-06/examples/Maven/doc-demo/src/main/java = 1760283167769
+/home/matthewscott/Development/Teaching/CSC210/Fall-2025/labs/lab-06/examples/Maven/doc-demo/target/site-webapp/apidocs/search-page.js = 1762124504711
+/home/matthewscott/Development/Teaching/CSC210/Fall-2025/labs/lab-06/examples/Maven/doc-demo/target/site-webapp/apidocs/package-search-index.js = 1762124504696
+/home/matthewscott/Development/Teaching/CSC210/Fall-2025/labs/lab-06/examples/Maven/doc-demo/target/site-webapp/apidocs/script.js = 1762124504709
+/home/matthewscott/Development/Teaching/CSC210/Fall-2025/labs/lab-06/examples/Maven/doc-demo/target/site-webapp/apidocs/module-search-index.js = 1762124504696
+/home/matthewscott/Development/Teaching/CSC210/Fall-2025/labs/lab-06/examples/Maven/doc-demo/target/site-webapp/apidocs/member-search-index.js = 1762124504696
+/home/matthewscott/Development/Teaching/CSC210/Fall-2025/labs/lab-06/examples/Maven/doc-demo/target/site-webapp/apidocs/allclasses-index.html = 1762124504694
+/home/matthewscott/Development/Teaching/CSC210/Fall-2025/labs/lab-06/examples/Maven/doc-demo/target/site-webapp/apidocs/search.html = 1762124504702
+/home/matthewscott/Development/Teaching/CSC210/Fall-2025/labs/lab-06/examples/Maven/doc-demo/target/site-webapp/apidocs/overview-tree.html = 1762124504687
+/home/matthewscott/Development/Teaching/CSC210/Fall-2025/labs/lab-06/examples/Maven/doc-demo/target/site-webapp/apidocs/stylesheet.css = 1762124504708
+/home/matthewscott/Development/Teaching/CSC210/Fall-2025/labs/lab-06/examples/Maven/doc-demo/target/site-webapp/apidocs/type-search-index.js = 1762124504696
+/home/matthewscott/Development/Teaching/CSC210/Fall-2025/labs/lab-06/examples/Maven/doc-demo/target/site-webapp/apidocs/link.svg = 1762124504710
+/home/matthewscott/Development/Teaching/CSC210/Fall-2025/labs/lab-06/examples/Maven/doc-demo/target/site-webapp/apidocs/index.html = 1762124504703
+/home/matthewscott/Development/Teaching/CSC210/Fall-2025/labs/lab-06/examples/Maven/doc-demo/target/site-webapp/apidocs/help-doc.html = 1762124504706
+/home/matthewscott/Development/Teaching/CSC210/Fall-2025/labs/lab-06/examples/Maven/doc-demo/target/site-webapp/apidocs/index-all.html = 1762124504701
+/home/matthewscott/Development/Teaching/CSC210/Fall-2025/labs/lab-06/examples/Maven/doc-demo/target/site-webapp/apidocs/allpackages-index.html = 1762124504695
+/home/matthewscott/Development/Teaching/CSC210/Fall-2025/labs/lab-06/examples/Maven/doc-demo/target/site-webapp/apidocs/copy.svg = 1762124504709
+/home/matthewscott/Development/Teaching/CSC210/Fall-2025/labs/lab-06/examples/Maven/doc-demo/target/site-webapp/apidocs/search.js = 1762124504711
+/home/matthewscott/Development/Teaching/CSC210/Fall-2025/labs/lab-06/examples/Maven/doc-demo/target/site-webapp/apidocs/element-list = 1762124504668
+/home/matthewscott/Development/Teaching/CSC210/Fall-2025/labs/lab-06/examples/Maven/doc-demo/target/site-webapp/apidocs/tag-search-index.js = 1762124504696
