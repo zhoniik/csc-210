@@ -1,0 +1,6 @@
+com/example/library/service/CatalogService.class
+com/example/library/util/IsbnValidator.class
+com/example/library/App.class
+com/example/library/repo/BookRepository.class
+com/example/library/domain/Book.class
+com/example/library/repo/InMemoryBookRepository.class
