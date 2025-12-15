@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.example.docs","c":"Calculator","l":"add(int, int)","u":"add(int,int)"},{"p":"com.example.docs","c":"Calculator","l":"Calculator()","u":"%3Cinit%3E()"},{"p":"com.example.docs","c":"Calculator","l":"divide(int, int)","u":"divide(int,int)"}];updateSearchResults();
